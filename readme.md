@@ -9,3 +9,7 @@ mais parece fixe ne?
 #era ?
 
 
+adicionando conteudos remotamente 
+como trablhar com o Git
+# Git minha nova dor de cabeça 
+
